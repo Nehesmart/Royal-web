@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(36, 24, 143);
+    padding: 2rem;
+    
+
+}
+
+.firstdiv{
+padding: 10px;
+}
+h1{
+    color:rgba(45, 247, 88, 0.795) ;
+    text-transform: capitalize;
+    width: 30p;
+
+}
+.login{
+    text-align: right;
+}
+.join{
+    text-align: right;
+}
+.seconddiv{
+    text-transform: capitalize;
+    text-align: center;
+    color: lightblue;
+}
+.seconddiv > .imga{
+    width: 24rem;
+    height: 16.4rem;
+}
+.seconddiv > .imgb{
+    width: 16.4rem;
+    height: 16.4rem;
+}
+.seconddiv > .imgc{
+    width: 13.1rem;
+    height: 16.4;
+}
+.seconddiv > .imgd{
+    width: 16rem;
+    height: 16.4;
+}
+.seconddiv > .imge{
+    width: 22.2rem;
+    height: 16.4;
+}
+.loginlogo{
+    text-align: start;
+    font-size: 2rem;
+}
+h2{
+    text-transform: capitalize;
+}
+#login-body{
+    background-color: rgb(15, 109, 46);
+    color: aquamarine;
+    text-align: center;
+    font-size: 2rem;
+    margin: rem;
+}
+input{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 50px;
+    background-color: #58ff8f;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    padding: 10px;
+    margin: 20px;
+    background-color: #58ff8f;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-control > #password  {
+    margin-left: 5rem;
+}
