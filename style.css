@@ -102,3 +102,8 @@ button{
 .menu-home{
     text-align: center;
 }
+.logout{
+    text-align: right;
+    margin: 2rem;
+    padding: 10px;
+}
