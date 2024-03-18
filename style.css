@@ -17,7 +17,7 @@ h1{
 .login{
     text-align: right;
 }
-.join{
+.signup{
     text-align: right;
 }
 .seconddiv{
@@ -76,4 +76,29 @@ button{
 }
 .form-control > #password  {
     margin-left: 5rem;
+}
+#Signup-page{
+    background-color: rgb(15, 109, 46);
+    color: aquamarine;
+    text-align: center;
+    font-size: 2rem;
+    margin: rem;
+}
+.signup-button{
+    color: rgb(228, 84, 84);
+}
+#welcome-page .menu{
+    text-align: right;
+}
+#menu-page{
+    background-color: #58ff8f;
+    color: blue;
+    text-align: center;
+}
+#menu-page > h1{
+    color: blue;
+    text-align: start;
+}
+.menu-home{
+    text-align: center;
 }
